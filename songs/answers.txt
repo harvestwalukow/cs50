@@ -1,0 +1,2 @@
+- Do to such a high average value of danceability with basically normal average value of energy and valence, then I will assume that the audio aura is a mix of purple and orange color (moods: confident and bold)
+- I think determine user's preference using his/her top 100 songs are not reliable, I propose to minimize it top top 20 or 30. And the metric that should also be consider is the duration of each songs played by the user.

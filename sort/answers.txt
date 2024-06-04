@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: quicker than sort3 to sort the sorted50000
+
+sort2 uses: merge
+
+How do you know?: in only takes 0.52 sec to sort random50000 while the other two are more than 2 sec
+
+sort3 uses: selection
+
+How do you know?: the slowest to sort a sorted data
