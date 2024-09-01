@@ -1,4 +1,4 @@
-# CS50x Problem Set Solutions
+# CS50 Problem Set Solutions
 
 ## Overview
 
